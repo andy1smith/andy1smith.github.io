@@ -26,7 +26,7 @@ Dr. Jiahao Wang is currently a research engineer in **AI safety and governance**
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2021</div><img src='images/ACM MM 21.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Few-shot fine-grained action recognition via bidirectional attention and contrastive meta-learning](https://dl.acm.org/doi/10.1145/3474085.3475216)

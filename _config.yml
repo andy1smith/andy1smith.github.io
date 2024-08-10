@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jiahao Wang's Homepage"
-description              : "Stay tuned to my news, publications and More."
+description              : "Stay tuned to Jiahao Wang's news, publications and More."
 repository               : "acewjh/acewjh.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -15,7 +15,7 @@ google_scholar_stats_use_cdn : true
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
+google_site_verification :  "google-site-verification=s0s5qq36pYxmGNxWbEtiMUithIysCMKrrKW_BiL2fTo" # get google_site_verification from https://search.google.com/search-console/about
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 

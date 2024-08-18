@@ -26,6 +26,19 @@ Dr. Jiahao Wang is currently a research engineer in **AI safety and governance**
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PACE: Predictive and Contrastive Embedding for Unsupervised Action](https://www.ijcai.org/proceedings/2022/0198.pdf)
+
+**Jiahao Wang**, Jie Qin, Yunhong Wang, Annan Li, **IJCAI 2022**
+
+- We are the first to exploit both predictability and similarity information for unsupervised action segmentation. By leveraging their complementarity, we overcome the limitations of existing clustering- and prediction-based methods.
+- We design a unified framework to simultaneously learn predictive and contrastive embeddings, based on which accurate action boundaries are detected.
+- Extensive experiments on three challenging benchmarks demonstrate the superiority of PACE, with up to 26.9% improvements in F1-score over the state of the art.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2021</div><img src='images/ACM MM 21.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -34,9 +47,24 @@ Dr. Jiahao Wang is currently a research engineer in **AI safety and governance**
 **Jiahao Wang**, Yunhong Wang, Sheng Liu, Annan Li, **ACM MM 2021**
 
 [**Project**](https://github.com/acewjh/FSFG) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Proposed Bidirectional Attention Module, combining task-driven and saliency supervised signals to capture subtle action details, simulating the top-down and bottom-up attention mechanism of human vision Introduced Contrastive Meta-Learning to generate discriminative video representations for fine-grained actions in few-shot learning scenario.
+- We propose the few-shot fine-grained action recognition problem, which is spawned from real-world demands. A novel framework is devised to accurately recognize unseen f ine-grained actions with few support samples. 
+- We combine task-driven and saliency-supervised signals to capture subtle action details, simulating the top-down and bottom-up attention mechanism of human vision. 
+- To generate discriminative representations for low interclass variance data, we propose contrastive meta-learning, making full use of potential contrastive pairs.
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOMM</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Will You Ever Become Popular? Learning to Predict Virality of Dance Clips](https://dl.acm.org/doi/abs/10.1145/3477533)
+
+**Jiahao Wang**, Yunhong Wang, Nina Weng, Tianrui Chai, Annan Li, Faxi Zhang, Sansi Yu, **ACM TOMM**
+
+- We first study virality prediction from dance challenges using visual cues, which has great commercial value. To facilitate the research, we release VDV dataset, a large-scale multi-modal dance virality prediction benchmark.
+- A multi-modal framework modeling both body movements and appearance dynamics is developed. For skeleton-based prediction, we devise a pyramidal skeleton graph convolutional network (PSGCN). For appearance-based prediction, relational temporal convolutional networks (RTCN) are proposed. An attentive modality fusion approach is introduced to aggregate predictions from multiple streams.
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
 - *2023* Huawei Rising Star Award
@@ -49,11 +77,7 @@ Dr. Jiahao Wang is currently a research engineer in **AI safety and governance**
 
 # 📖 Educations
 - *2017.09 - 2022.07*, PhD in Computer Science, Beihang University, Beijing, China (Supervised by Prof. [Yunhong Wang](https://scholar.google.com/citations?user=0ez7lA0AAAAJ) at [IRIP Lab](https://irip.buaa.edu.cn/))
-- *2015.09 - 2019.06*, B.E. in Computer Science and Technology, Beihang University, Beijing, China 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2015.09 - 2019.06*, B.E. in Computer Science and Technology, Beihang University, Beijing, China
 
 # 💻 Internships
 - *2021.05 - 2021.10*, Visual Intelligence Center, Meituan, Beijing, China.

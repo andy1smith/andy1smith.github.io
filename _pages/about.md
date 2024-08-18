@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Dr. Jiahao Wang is currently a research engineer in **AI safety and governance** at Huawei Technologies Co., Ltd. He received his PhD and B.S. degrees in Computer Science from Beihang University in 2022 and 2017 respectively. He also worked as a research intern in Meituan in 2021. Jiahao’s major research interest during PhD was computer vision and video understanding, where he focused on how to utilize **few-shot, unsupervised** and other representation learning methods to facilitate AI **understanding human behaviors accurately and reliably.** It was also from then Jiahao has begun to pay attention to the trustworthiness and safety issues of AI. After joining Huawei, he started in-depth research in AI safety and governance, with a particular focus on **AI alignment, hallucination mitigation** and other cutting-edge areas like AI transparency and data governance.
+Dr. Jiahao Wang is currently a research engineer in **AI safety and governance** at Huawei Technologies Co., Ltd. He received his PhD and B.S. degrees in Computer Science from Beihang University in 2022 and 2017 respectively. He also worked as a research intern in Meituan in 2021. Supervised by Prof. [Yunhong Wang](https://scholar.google.com/citations?user=0ez7lA0AAAAJ) at [IRIP Lab](https://irip.buaa.edu.cn/), Jiahao’s major research interest during PhD was computer vision and video understanding, where he focused on how to utilize **few-shot, unsupervised** and other representation learning methods to facilitate AI **understanding human behaviors accurately and reliably.** It was also from then Jiahao has begun to pay attention to the trustworthiness and safety issues of AI. After joining Huawei, he started in-depth research in AI safety and governance, with a particular focus on **AI alignment, hallucination mitigation** and other cutting-edge areas like AI transparency and data governance.
 
 
 # 🔥 News
@@ -39,16 +39,21 @@ Dr. Jiahao Wang is currently a research engineer in **AI safety and governance**
 </div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023* Huawei Rising Star Award
+- *2022* Outstanding Doctoral Graduate Award of Beihang University
+- *2017* Doctoral Scholarship of Beihang University
+- *2017* Outstanding Undergraduate Graduate Award of Beijing
+- *2016* Meritorious Winner of MCM/ICM
+- *2016* Social Work Scholarship of Beihang University
+- *2016* Silver Medal of the 26th “Feng Ru Cup” Competition of Beihang University
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2017.09 - 2022.07*, PhD in Computer Science, Beihang University, Beijing, China (Supervised by Prof. [Yunhong Wang](https://scholar.google.com/citations?user=0ez7lA0AAAAJ) at [IRIP Lab](https://irip.buaa.edu.cn/))
+- *2015.09 - 2019.06*, B.E. in Computer Science and Technology, Beihang University, Beijing, China 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2021.05 - 2021.10*, Visual Intelligence Center, Meituan, Beijing, China.

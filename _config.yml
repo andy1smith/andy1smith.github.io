@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jiahao Wang's Homepage"
-description              : "Stay tuned to Jiahao Wang's news, publications and More."
+description              : "Dream big and stay young."
 repository               : "acewjh/acewjh.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jiahao Wang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Beihang University"
+  bio              : "Senior Research Engineer"
   location         : "Shenzhen, China"
   employer         : "Huawei Technologies Co., Ltd."
   pubmed           : 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "acewjh"
   google_plus      :
   keybase          :
   instagram        :

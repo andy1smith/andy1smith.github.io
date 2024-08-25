@@ -22,11 +22,11 @@ Dr. Jiahao Wang is currently a research engineer in **AI safety and governance**
 
 # 🔥 News
 - *2024.05*: &nbsp;🎉🎉 Our work **EvCap: Element-Aware Video Captioning** was accepted by IEEE TCSVT.
-- *2022.07*: &nbsp;🎉🎉 Our unsupervised video segmentation method **PACE** was accepted by IJCAI 2024. 
+- *2022.07*: &nbsp;🎉🎉 Our unsupervised video segmentation method **PACE** was accepted by IJCAI 2024.
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2022</div><img src='images/IJCAI 2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PACE: Predictive and Contrastive Embedding for Unsupervised Action](https://www.ijcai.org/proceedings/2022/0198.pdf)
@@ -42,9 +42,9 @@ Dr. Jiahao Wang is currently a research engineer in **AI safety and governance**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2021</div><img src='images/ACM MM 21.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Few-shot fine-grained action recognition via bidirectional attention and contrastive meta-learning](https://dl.acm.org/doi/10.1145/3474085.3475216)
+[Few-shot Fine-grained Action Recognition via Bidirectional Attention and Contrastive Meta-learning](https://dl.acm.org/doi/10.1145/3474085.3475216)
 
-**Jiahao Wang**, Yunhong Wang, Sheng Liu, Annan Li, **ACM MM 2021**
+**Jiahao Wang**, Yunhong Wang, Sheng Liu, Annan Li, **ACM Multimedia 2021**
 
 [**Project**](https://github.com/acewjh/FSFG) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We propose the few-shot fine-grained action recognition problem, which is spawned from real-world demands. A novel framework is devised to accurately recognize unseen f ine-grained actions with few support samples. 
@@ -53,7 +53,33 @@ Dr. Jiahao Wang is currently a research engineer in **AI safety and governance**
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOMM</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2022</div><img src='images/TMM 2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Bidirectional Maximum Entropy Training with Word Co-occurrence for Video Captioning](https://ieeexplore.ieee.org/document/9780231)
+
+Sheng Liu, Annan Li, **Jiahao Wang**, Yunhong Wang, **IEEE TMM**
+
+- We are the first to introduce the maximum entropy RL theory and probability distribution optimization into the video captioning task. The proposed BME method, which can be employed in a plug-and-play manner, enlarges the search space for RL algorithms and maximizes the relative entropy between neighboring words to increase the diversity of descriptions.
+- To the best of our knowledge, this is the first work to exploit word co-occurrence in the training process of video captioning. It enables the model to pay different attention to neighboring word distributions at the phrase level, resulting in more human-like captions.
+- Extensive experiments on MSVD and MSR-VTT demonstrate the effectiveness of our approach, by achieving competitive results in different metrics. Further studies show that our method significantly increases the diversity of descriptions compared with the baseline models.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='images/TCSVT 2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[EvCap: Element-Aware Video Captioning](https://ieeexplore.ieee.org/document/10529278)
+
+Sheng Liu, Annan Li, Yuwei Zhao, **Jiahao Wang**, Yunhong Wang, **IEEE TCSVT**
+
+- We propose the idea of the element-aware usage of linguistic features in video captioning models which previously rely on the only visual representation which results in the caption that is easily polluted by hallucinations.
+- We design an EvCap framework that consists of a multimodal multi-branch encoder-decoder framework and a postoperation fusion strategy to flexibly insert and aggregate additional element-related features besides visual representations.
+- We conduct extensive experiments with CNNs, ViT and CLIP as the encoder on four representative datasets. The results demonstrate that EvCap can surpass most state-of-theart methods without training encoders, e.g. MSVD+10.9%, MSR-VTT+1.5%, VATEX+18.9% and TVC+4.7% on CIDEr score under ViT architectures. Furthermore, we also explore the performance of the multi-modal multi-feature framework w.r.t. the types and number of features adopted, e.g. visual and linguistic features, hoping to provide some insights for future model design.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOMM</div><img src='images/ACM TOMM 21.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Will You Ever Become Popular? Learning to Predict Virality of Dance Clips](https://dl.acm.org/doi/abs/10.1145/3477533)
@@ -65,6 +91,36 @@ Dr. Jiahao Wang is currently a research engineer in **AI safety and governance**
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP 2019</div><img src='images/ICIP 2019.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Atrous Temporal Convolutional Network for Video Action Segmentation](https://ieeexplore.ieee.org/document/8803088)
+
+**Jiahao Wang**, Zhengyin Du, Annan Li, Yunhong Wang, **ICIP 2019**
+
+- A novel encoder-decoder fully convolutional network that utilizes atrous temporal convolutions to explicitly extract contextual and local features for accurate temporal action segmentation.
+- We propose atrous temporal pyramid pooling (ATPP), an effective and efficient way to capture multiscale action dependencies. To our best knowledge, this is the first work that introduces atrous temporal convolutions to tackle the action segmentation problem in a multiscale manner.
+- Experimental results demonstrate that our model achieves improvements over the state of the art on 50 Salads, JIGSAWS and GTEA datasets.
+</div>
+</div>
+
+# 📝 Publication List
+- EvCap: Element-Aware Video Captioning. IEEE TCSVT. 2024  
+Sheng Liu, Annan Li, Yuwei Zhao, **Jiahao Wang**, Yunhong Wang
+- PACE: Predictive and Contrastive Embedding for Unsupervised Action Segmentation. IJCAI. 2022  
+**Jiahao Wang**, Jie Qin, Yunhong Wang, Annan Li
+- Bidirectional Maximum Entropy Training with Word Co-occurrence for Video Captioning. IEEE TMM. 2022  
+Sheng Liu, Annan Li, **Jiahao Wang**, Yunhong Wang
+- Will You Ever Become Popular? Learning to Predict Virality of Dance Clips. ACM TOMM. 2021  
+**Jiahao Wang**, Yunhong Wang, Nina Weng, Tianrui Chai, Annan Li, Faxi Zhang, Sansi Yu
+- Few-shot Fine-grained Action Recognition via Bidirectional Attention and Contrastive Meta-learning. ACM Multimedia. 2021  
+**Jiahao Wang**, Yunhong Wang, Sheng Liu, Annan Li
+- Two-stream Temporal Convolutional Network for Dynamic Facial Attractiveness Prediction. IEEE ICRP. 2021  
+Nina Weng, **Jiahao Wang**, Annan Li, Yunhong Wang
+- Assessing Action Quality via Attentive Spatio-Temporal Convolutional Networks. PRCV. 2020  
+**Jiahao Wang**, Zhengyin Du, Annan Li, Yunhong Wang
+- Atrous Temporal Convolutional Network for Video Action Segmentation. IEEE ICIP. 2019  
+**Jiahao Wang**, Zhengyin Du, Annan Li, Yunhong Wang
 
 # 🎖 Honors and Awards
 - *2023* Huawei Rising Star Award
@@ -73,7 +129,7 @@ Dr. Jiahao Wang is currently a research engineer in **AI safety and governance**
 - *2017* Outstanding Undergraduate Graduate Award of Beijing
 - *2016* Meritorious Winner of MCM/ICM
 - *2016* Social Work Scholarship of Beihang University
-- *2016* Silver Medal of the 26th “Feng Ru Cup” Competition of Beihang University
+- *2016* Silver Medal of the 26th Feng Ru Competition of Beihang University
 
 # 📖 Educations
 - *2017.09 - 2022.07*, PhD in Computer Science, Beihang University, Beijing, China (Supervised by Prof. [Yunhong Wang](https://scholar.google.com/citations?user=0ez7lA0AAAAJ) at [IRIP Lab](https://irip.buaa.edu.cn/))

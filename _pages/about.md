@@ -25,13 +25,11 @@ I got my BSc degree in [Nanjing University of Information Science & Technology](
 
 - The water radiative transfer model
 
-  
-
-  ![Graph_abstract](/Users/dengnan/Documents/git_store/andy1smith.github.io/images/Graph_abstract.png)
+  ![Graph_abstract](../images/Graph_abstract.png)
 
 - Study the angular distribution of POA while considering solar in different relative location with a cumulus cloud, via a shortwave RTM model.
 
-  ![cloud_locations](/Users/dengnan/Documents/Line-by-line-model-Github-master/Figures/cloud_locations.png)
+  ![cloud_locations](../images/Graph_abstract.png)
 
   The python RTM model is developed by Prof. Li.
 

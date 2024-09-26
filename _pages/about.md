@@ -29,7 +29,7 @@ I got my BSc degree in [Nanjing University of Information Science & Technology](
 
 - Study the angular distribution of POA while considering solar in different relative location with a cumulus cloud, via a shortwave RTM model.
 
-  <img src="https://github.com/andy1smith/andy1smith.github.io/blob/main/images/cloud_locations.png" width="900" height="250">
+  <img src="https://github.com/andy1smith/andy1smith.github.io/blob/main/images/cloud_locations.png?raw=true" width="900" height="300">
 
   The python RTM model is developed by Prof. Li.
 

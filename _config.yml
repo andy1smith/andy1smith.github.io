@@ -6,38 +6,38 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jiahao Wang's Homepage"
-description              : "Dream big and stay young."
-repository               : "acewjh/acewjh.github.io"
+title                    : "Nan DENG's Homepage"
+description              : "PhD student: row row in a boat."
+repository               : "andy1smith/andy1smith.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification :  "google-site-verification=s0s5qq36pYxmGNxWbEtiMUithIysCMKrrKW_BiL2fTo" # get google_site_verification from https://search.google.com/search-console/about
+google_site_verification :  #"google-site-verification=s0s5qq36pYxmGNxWbEtiMUithIysCMKrrKW_BiL2fTo" # get google_site_verification from https://search.google.com/search-console/about
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
-  name             : "Jiahao Wang"
+  name             : "Nan DENG"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Senior Research Engineer"
-  location         : "Shenzhen, China"
-  employer         : "Huawei Technologies Co., Ltd."
+  bio              : "PhD student"
+  location         : "Hong Kong SAR, China"
+  employer         : "The Hong Kong Polytechnic University"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=rkJYivAAAAAJ"
-  email            : "jhwang@buaa.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Jiahao-Wang-22"
-  uri              :
+  googlescholar    : "https://scholar.google.com/citations?user=_oiltS8AAAAJ&hl=en&oi=sra"
+  email            : "dengnan987@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Nan-Deng-8"
+  uri              : "https://www.li-realab.info/authors/dengnan/"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "acewjh"
+  github           : "https://github.com/andy1smith"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-2974-2302"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

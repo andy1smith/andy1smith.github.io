@@ -24,7 +24,7 @@ author:
   name             : "Nan DENG"
   avatar           : "images/dn.png"
   bio              : "PhD student"
-  location         : "Hong Kong SAR, China"
+  location         : #"Hong Kong SAR, China"
   employer         : "The Hong Kong Polytechnic University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=_oiltS8AAAAJ&hl=en&oi=sra"

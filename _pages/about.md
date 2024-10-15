@@ -21,27 +21,40 @@ Nan DENG a Ph.D. student in the [Department of Mechanical Engineering](https://w
 
 I got my BSc degree in [Nanjing University of Information Science & Technology](https://en.nuist.edu.cn/main.htm), where I embarked on my initial research project: analyzing the impact of various cloud particles on brightness temperature using the CRTM model. I obtained my Master Degree in [NSSC/UCAS](http://english.nssc.cas.cn/) where I researched the Feiyun-3 Series Satellite's GNSS data processing, advised by [Prof. BAI Weihua](https://people.ucas.edu.cn/~bwh), where I studied the grid optimization algirithm to control the quality of precessing.
 
-# 📝 Publication List
-- [Quantifying the effects of spectral and directional distribution of radiation on its
-  propagation in saline water](https://www.sciencedirect.com/science/article/pii/S135943112402204X). Applied Thermal Engineering (2024): 124536.
+For my PhD program, I am studying the angular-spectral characteristics of radiation propagation in atmosphere and water, via a 3D Monte Carlo shortwave radiative transfer model and deep learning approach. I have completed my research on radiative transfer in water body. Currently, I am studying how different cloud particle types affect upwelling and downwelling radiation, as well as plane of array (POA) irradiance.
 
-  **Nan Deng**, Peixin Dong, Zhe Wang, Mengying Li*
+<span class='anchor' id='-educations'></span>
 
-- [Evaluation of Forward Models for GNSS Radio Occultation Data Processing and Assimilation](https://www.mdpi.com/2072-4292/14/5/1081)
+# 📖 Education
 
-  **Nan Deng**; Weihua Bai*; Yueqiang Sun; Qifei Du; Junming Xia; Xianyi Wang; Congliang Liu; Yuerong Cai; Xiangguang Meng; Cong Yin et al. *Remote Sensing* (2022): 14 (5), 1081.
-
-- [Applications of <strong>GNSS</strong>-RO to numerical weather prediction and tropical cyclone forecast](https://www.mdpi.com/2073-4433/11/11/1204)
-
-  Weihua Bai; **Nan Deng**; Yueqiang Sun; Qifei Du; Junming Xia; Xianyi Wang; Xiangguang Meng; Danyang Zhao; Congliang Liu; Guangyuan Tan et al.  *Atmosphere* (2020): 11 (11), 1204. 
-
-# 📖 Educations
 - MS in Earth and Space Detection Technology, 2022
 
   National Space Science Center, University of Chinese Academy of Sciences (NSSC/UCAS)
+
 - BSc in Atmosphere Science, 2017
 
   Nanjing University of Information Science and Technology (NUIST)
+
+<span class='anchor' id='-publications'></span>
+
+# 📝 Publication
+- [Quantifying the effects of spectral and directional distribution of radiation on its
+  propagation in saline water](https://www.sciencedirect.com/science/article/pii/S135943112402204X).
+
+  **Nan Deng**, Peixin Dong, Zhe Wang, Mengying Li*. *Applied Thermal Engineering* (2024): 124536.
+
+- [Evaluation of Forward Models for GNSS Radio Occultation Data Processing and Assimilation](https://www.mdpi.com/2072-4292/14/5/1081)
+
+  **Nan Deng**, Weihua Bai*, Yueqiang Sun, Qifei Du, Junming Xia, Xianyi Wang, Congliang Liu, Yuerong Cai, Xiangguang Meng, Cong Yin et al. *Remote Sensing* (2022): 14 (5), 1081.
+
+- [Applications of <strong>GNSS</strong>-RO to numerical weather prediction and tropical cyclone forecast](https://www.mdpi.com/2073-4433/11/11/1204)
+
+  Weihua Bai, **Nan Deng***, Yueqiang Sun, Qifei Du, Junming Xia, Xianyi Wang, Xiangguang Meng, Danyang Zhao, Congliang Liu, Guangyuan Tan et al.  *Atmosphere* (2020): 11 (11), 1204. 
+
+- [Simulations and analysis of GNSS multipath observables for frozen and thawed soil under complex surface conditions](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_oiltS8AAAAJ&citation_for_view=_oiltS8AAAAJ:j3f4tGmQtD8C)
+  C Gao, W Bai, Z Wang, X Wu, L Liu, **Nan Deng**, J Xia. *Water* 13 (14), 1986.
+
+<span class='anchor' id='-skills'></span>
 
 # 💻 Skills
 - Programming Language: Python (⭐️⭐️⭐️⭐️⭐️) , MATLAB (⭐️⭐️⭐️), C (⭐️⭐️), Fortran (⭐️)
@@ -51,17 +64,15 @@ I got my BSc degree in [Nanjing University of Information Science & Technology](
 - RTM softwares : LibRadTran (⭐️⭐️),  mcarats (⭐️)
 - Tools: Photoshop, Xmind, Visio, Drawio
 
+<span class='anchor' id='-research'></span>
+
 # 📝 Research 
 
-- The water radiative transfer model
+1. The **water radiative transfer model**. This study provides essential guidance for the design and performance evaluation of applications such as air–water interface, radiation-driven underwater vapor generation, and underwater photovoltaic systems.
 
-  <img src="https://github.com/andy1smith/andy1smith.github.io/blob/main/images/Graph_abstract.png?raw=true" width="600" height="250">
+<img src="https://github.com/andy1smith/andy1smith.github.io/blob/main/images/Graph_abstract.png?raw=true" width="600" height="250">
 
-- Study the angular distribution of POA while considering solar in different relative location with a cumulus cloud, via a 3D shortwave RTM model.
+2. Study the angular distribution of POA while considering solar in different relative location with a cumulus cloud, via a 3D shortwave RTM model. The python RTM model is developed by Prof. Li, Mengying. I keep on going to update this model: (1) from 2D to 3D; (2) accelerating by correlated-K method (3) from homogeneous to inhomogeneous cloud layers. 
 
-  <img src="https://github.com/andy1smith/andy1smith.github.io/blob/main/images/cloud_locations.png?raw=true" width="900" height="300">
-
-  The python RTM model is developed by Prof. Li.Mengying.
-
-  I keep on going to update the codes by adding correlated-K method and adding a vertical inhomogenous cloud module. 
+<img src="https://github.com/andy1smith/andy1smith.github.io/blob/main/images/cloud_locations.png?raw=true" width="900" height="300">
 

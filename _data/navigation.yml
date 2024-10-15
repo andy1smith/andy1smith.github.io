@@ -1,22 +1,22 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/#about-me"
-
-  - title: "News"
-    url: "/#-news"
+    url: "https://andy1smith.github.io//#about-me"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "https://andy1smith.github.io//#-publications"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  # - title: "Honors and Awards"
+  #   url: "/#-honors-and-awards"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "/https://andy1smith.github.io//#-educations"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+  - title: "Research"
+    url: "https://andy1smith.github.io//#-research"
 
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "Skills"
+     url: "https://andy1smith.github.io//#-skills"
+
+  # - title: "Internships"
+  #   url: "/#-internships"

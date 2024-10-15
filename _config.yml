@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Nan DENG's Homepage"
-description              : "PhD student: row row in a boat."
+description              : "PhD student in the Hong Kong Polytechnic University"
 repository               : "andy1smith/andy1smith.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,8 +24,8 @@ author:
   name             : "Nan DENG"
   avatar           : "images/dn.png"
   bio              : "PhD student"
-  location         : #"Hong Kong SAR, China"
-  employer         : "The Hong Kong Polytechnic University"
+  location         : "Hong Kong SAR, China"
+  employer         : #"Hong Kong"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=_oiltS8AAAAJ&hl=en&oi=sra"
   email            : "dengnan987@gmail.com"

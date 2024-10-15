@@ -23,7 +23,7 @@ I got my BSc degree in [Nanjing University of Information Science & Technology](
 
 For my PhD program, I am studying the angular-spectral characteristics of radiation propagation in atmosphere and water, via a 3D Monte Carlo shortwave radiative transfer model and deep learning approach. I have completed my research on radiative transfer in water body. Currently, I am studying how different cloud particle types affect upwelling and downwelling radiation, as well as plane of array (POA) irradiance.
 
-<span class='anchor' id='-educations'></span>
+
 
 # 📖 Education
 
@@ -35,7 +35,7 @@ For my PhD program, I am studying the angular-spectral characteristics of radiat
 
   Nanjing University of Information Science and Technology (NUIST)
 
-<span class='anchor' id='-publications'></span>
+
 
 # 📝 Publication
 - [Quantifying the effects of spectral and directional distribution of radiation on its
@@ -54,7 +54,7 @@ For my PhD program, I am studying the angular-spectral characteristics of radiat
 - [Simulations and analysis of GNSS multipath observables for frozen and thawed soil under complex surface conditions](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_oiltS8AAAAJ&citation_for_view=_oiltS8AAAAJ:j3f4tGmQtD8C)
   C Gao, W Bai, Z Wang, X Wu, L Liu, **Nan Deng**, J Xia. *Water* 13 (14), 1986.
 
-<span class='anchor' id='-skills'></span>
+
 
 # 💻 Skills
 - Programming Language: Python (⭐️⭐️⭐️⭐️⭐️) , MATLAB (⭐️⭐️⭐️), C (⭐️⭐️), Fortran (⭐️)
@@ -64,7 +64,7 @@ For my PhD program, I am studying the angular-spectral characteristics of radiat
 - RTM softwares : LibRadTran (⭐️⭐️),  mcarats (⭐️)
 - Tools: Photoshop, Xmind, Visio, Drawio
 
-<span class='anchor' id='-research'></span>
+<span class='anchor' id='research'></span>
 
 # 📝 Research 
 

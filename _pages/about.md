@@ -68,11 +68,11 @@ For my PhD program, I am studying the angular-spectral characteristics of radiat
 
 # 📝 Research 
 
-1. The **water radiative transfer model**. This study provides essential guidance for the design and performance evaluation of applications such as air–water interface, radiation-driven underwater vapor generation, and underwater photovoltaic systems.
+- The **water radiative transfer model**. This study provides essential guidance for the design and performance evaluation of applications such as air–water interface, radiation-driven underwater vapor generation, and underwater photovoltaic systems.
 
 <img src="https://github.com/andy1smith/andy1smith.github.io/blob/main/images/Graph_abstract.png?raw=true" width="600" height="250">
 
-2. Study the angular distribution of POA while considering solar in different relative location with a cumulus cloud, via a 3D shortwave RTM model. The python RTM model is developed by Prof. Li, Mengying. I keep on going to update this model: (1) from 2D to 3D; (2) accelerating by correlated-K method (3) from homogeneous to inhomogeneous cloud layers. 
+- Study the angular distribution of POA while considering solar in different relative location with a cumulus cloud, via a 3D shortwave RTM model. The python RTM model is developed by Prof. Li, Mengying. I keep on going to update this model: (1) from 2D to 3D; (2) accelerating by correlated-K method (3) from homogeneous to inhomogeneous cloud layers. 
 
 <img src="https://github.com/andy1smith/andy1smith.github.io/blob/main/images/cloud_locations.png?raw=true" width="900" height="300">
 

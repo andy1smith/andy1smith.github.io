@@ -39,20 +39,20 @@ For my PhD program, I am studying the angular-spectral characteristics of radiat
 
 # 📝 Publication
 - [Quantifying the effects of spectral and directional distribution of radiation on its
-  propagation in saline water](https://www.sciencedirect.com/science/article/pii/S135943112402204X).
+  propagation in saline water](https://www.sciencedirect.com/science/article/pii/S135943112402204X).  *Applied Thermal Engineering* (2024): 124536.
 
-  **Nan Deng**, Peixin Dong, Zhe Wang, Mengying Li*. *Applied Thermal Engineering* (2024): 124536.
+  **Nan Deng**, Peixin Dong, Zhe Wang, Mengying Li*.
 
-- [Evaluation of Forward Models for GNSS Radio Occultation Data Processing and Assimilation](https://www.mdpi.com/2072-4292/14/5/1081)
+- [Evaluation of Forward Models for GNSS Radio Occultation Data Processing and Assimilation](https://www.mdpi.com/2072-4292/14/5/1081). *Remote Sensing* (2022): 14 (5), 1081.
 
-  **Nan Deng**, Weihua Bai*, Yueqiang Sun, Qifei Du, Junming Xia, Xianyi Wang, Congliang Liu, Yuerong Cai, Xiangguang Meng, Cong Yin et al. *Remote Sensing* (2022): 14 (5), 1081.
+  **Nan Deng**, Weihua Bai*, Yueqiang Sun, Qifei Du, Junming Xia, Xianyi Wang, Congliang Liu, Yuerong Cai, Xiangguang Meng, Cong Yin et al. 
 
-- [Applications of <strong>GNSS</strong>-RO to numerical weather prediction and tropical cyclone forecast](https://www.mdpi.com/2073-4433/11/11/1204)
+- [Applications of <strong>GNSS</strong>-RO to numerical weather prediction and tropical cyclone forecast](https://www.mdpi.com/2073-4433/11/11/1204). *Atmosphere* (2020): 11 (11), 1204. 
 
-  Weihua Bai, **Nan Deng***, Yueqiang Sun, Qifei Du, Junming Xia, Xianyi Wang, Xiangguang Meng, Danyang Zhao, Congliang Liu, Guangyuan Tan et al.  *Atmosphere* (2020): 11 (11), 1204. 
+  Weihua Bai, **Nan Deng***, Yueqiang Sun, Qifei Du, Junming Xia, Xianyi Wang, Xiangguang Meng, Danyang Zhao, Congliang Liu, Guangyuan Tan et al.  
 
-- [Simulations and analysis of GNSS multipath observables for frozen and thawed soil under complex surface conditions](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_oiltS8AAAAJ&citation_for_view=_oiltS8AAAAJ:j3f4tGmQtD8C)
-  C Gao, W Bai, Z Wang, X Wu, L Liu, **Nan Deng**, J Xia. *Water* 13 (14), 1986.
+- [Simulations and analysis of GNSS multipath observables for frozen and thawed soil under complex surface conditions](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_oiltS8AAAAJ&citation_for_view=_oiltS8AAAAJ:j3f4tGmQtD8C). *Water* 13 (14), 1986.
+  C Gao, W Bai, Z Wang, X Wu, L Liu, **Nan Deng**, J Xia. 
 
 
 
@@ -75,4 +75,3 @@ For my PhD program, I am studying the angular-spectral characteristics of radiat
 - Study the angular distribution of POA while considering solar in different relative location with a cumulus cloud, via a 3D shortwave RTM model. The python RTM model is developed by Prof. Li, Mengying. I keep on going to update this model: (1) from 2D to 3D; (2) accelerating by correlated-K method (3) from homogeneous to inhomogeneous cloud layers. 
 
 <img src="https://github.com/andy1smith/andy1smith.github.io/blob/main/images/cloud_locations.png?raw=true" width="900" height="300">
-
